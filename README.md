@@ -18,6 +18,7 @@ The model provides valuable predictions, but it's crucial to consider it as part
 The project enhanced skills in data preprocessing, feature engineering, and model evaluation, while overcoming outliers and ensuring data quality.
 
 Dataset : [https://www.kaggle.com/datasets/mohansacharya/graduate-admissions]
+
 Project Link : [https://github.com/khushiagrawal22/Internsavy_Data_Science_Projects/blob/main/Task_1%20University%20Admission%20Prediction%20with%20Classification%20Modeling.ipynb]
 
 ## Project 2: Unveiling Mall Customer Segmentation - A Clustering Analysis Approach
