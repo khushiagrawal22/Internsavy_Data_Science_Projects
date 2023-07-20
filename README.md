@@ -34,7 +34,7 @@ Welcome to my INTERNSAVY Data Science Internship Projects repository! Here, I ha
 
 🌟 **Lessons Learned:** This project enhanced my skills in clustering analysis, visualization techniques, and PCA for dimensionality reduction.
 
-[Link to the Mall Customer Segmentation Project](https://github.com/your_username/mall_customer_segmentation)
+
 
 ## Project 3: Customer Segmentation Analysis - Uncovering Insights and Patterns for Business Optimization
 
