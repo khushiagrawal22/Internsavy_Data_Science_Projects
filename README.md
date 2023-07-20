@@ -1,6 +1,6 @@
 # InternSavy Data Science Internship Projects
 
-This repository contains three data science projects completed during my internship at InternSavy. Each project showcases different machine learning techniques and data analysis skills. Below is a brief description of each project:
+Welcome to my INTERNSAVY Data Science Internship Projects repository! Here, I have showcased the three exciting data science projects I completed during my internship at INTERNSAVY. Each project demonstrates various data analysis and machine learning techniques to tackle real-world challenges. Read on to explore the projects and their key findings.
 
 ## Project 1: Admission Prediction using Classification Techniques
 
