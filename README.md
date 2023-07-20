@@ -21,8 +21,6 @@ Welcome to my INTERNSAVY Data Science Internship Projects repository! Here, I ha
 
 ## Project 2: Unveiling Mall Customer Segmentation - A Clustering Analysis Approach
 
-![Mall Customer Segmentation](mall_customer_segmentation.png)
-
 🔍 **Problem Statement:** In this project, I explored the mall customer dataset to segment customers based on their annual income and spending score. The goal was to uncover distinct customer groups for targeted marketing strategies.
 
 💡 **Approach:** I employed the K-means clustering algorithm and hierarchical clustering to identify customer segments. Additionally, principal component analysis (PCA) was utilized for dimensionality reduction and visualization.
@@ -40,8 +38,6 @@ Welcome to my INTERNSAVY Data Science Internship Projects repository! Here, I ha
 
 ## Project 3: Customer Segmentation Analysis - Uncovering Insights and Patterns for Business Optimization
 
-![Customer Segmentation Analysis](customer_segmentation_analysis.png)
-
 🔍 **Problem Statement:** In this project, I performed customer segmentation analysis to uncover meaningful customer groups based on age, annual income, and spending score.
 
 💡 **Approach:** I applied both K-means clustering and hierarchical clustering to the customer data. I also used PCA for dimensionality reduction and visualization.
@@ -55,20 +51,10 @@ Welcome to my INTERNSAVY Data Science Internship Projects repository! Here, I ha
 
 🌟 **Lessons Learned:** This project provided valuable experience in clustering analysis, hierarchical clustering, and PCA for dimensionality reduction.
 
-[Link to the Customer Segmentation Analysis Project](https://github.com/your_username/customer_segmentation_analysis)
 
 ## About INTERNSAVY Data Science Internship
 
-INTERNSAVY is an innovative platform that offers hands-on internships and projects to aspiring data scientists. During my internship, I had the opportunity to work on diverse real-world projects, gain practical experience, and enhance my skills in data analysis, machine learning, and more.
-
-Feel free to explore the code and details of these projects in their respective GitHub repositories. I'm excited to share my work with you, and I'm looking forward to future data science endeavors!
-
-Connect with me on LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/your_profile)
-
-📧 Contact me: your_email@example.com
-
+INTERNSAVY is an innovative platform that offers hands-on internships and projects to aspiring data scientists. During my internship, I had the opportunity to work on diverse real-world projects, gain practical experience, and enhance my skills in data analysis, machine learning, and more
 #datascience #machinelearning #dataanalysis #AdmissionPrediction #MallCustomerSegmentation #CustomerSegmentation #INTERNSAVY #internship #projects #datascientist #dataanalyst #python #ml #coding #datavisualization
 
----
 
-Note: Replace `your_username`, `your_email@example.com`, and `Your LinkedIn Profile URL` with your actual GitHub username,
