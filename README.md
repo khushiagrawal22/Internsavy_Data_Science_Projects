@@ -19,7 +19,7 @@ The project enhanced skills in data preprocessing, feature engineering, and mode
 
 Dataset : [https://www.kaggle.com/datasets/mohansacharya/graduate-admissions]
 
-Project Link : [https://github.com/khushiagrawal22/Internsavy_Data_Science_Projects/blob/main/Task_1%20University%20Admission%20Prediction%20with%20Classification%20Modeling.ipynb]
+Project Link : [https://shorturl.at/tADNX]
 
 ## Project 2: Unveiling Mall Customer Segmentation - A Clustering Analysis Approach
 
@@ -37,7 +37,9 @@ Customer segmentation provides valuable insights for targeted marketing strategi
 🌟 Lessons Learned:
 The project demonstrated how clustering techniques help uncover hidden patterns within customer data, enabling data-driven decision-making for business growth.
 
+Dataset : [https://www.kaggle.com/datasets/shwetabh123/mall-customers]
 
+Project Link : [https://rb.gy/l1rq3]
 
 ## Project 3: Customer Segmentation Analysis - Uncovering Insights and Patterns for Business Optimization
 
@@ -53,6 +55,10 @@ The customer segments provide valuable information for targeted marketing, custo
 
 🌟 Lessons Learned:
 The project showcased the power of unsupervised learning techniques in customer segmentation, enabling businesses to better understand their customer base and make data-driven decisions.
+
+Dataset : [https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python]
+
+Project Link : [https://rb.gy/lp6xz]
 
 # About INTERNSAVY Data Science Internship
 INTERNSAVY is an innovative platform that offers hands-on internships and projects to aspiring data scientists. During my internship, I had the opportunity to work on diverse real-world projects, gain practical experience, and enhance my skills in data analysis, machine learning, and more.
