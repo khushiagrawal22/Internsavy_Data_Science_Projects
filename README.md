@@ -6,7 +6,7 @@ This repository contains three data science projects completed during my interns
 
 In this project, I developed a classification model to predict the likelihood of admission based on various factors such as GRE score, TOEFL score, university rating, SOP, LOR, CGPA, and research experience. The model demonstrated high accuracy in predicting admission outcomes and identified positive correlations between GRE score, TOEFL score, and CGPA with the likelihood of admission.
 
-[Link to the Admission Prediction Project](https://github.com/your_username/admission_prediction)
+[Link to the Admission Prediction Project](https://github.com/khushiagrawal22/Internsavy_Data_Science_Projects/blob/main/Task_1%20University%20Admission%20Prediction%20with%20Classification%20Modeling.ipynb)
 [Kaggle Dataset: Admission_Predict_Ver1.1](https://www.kaggle.com/your_username/admission-predict-ver11)
 
 ## Project 2: Unveiling Mall Customer Segmentation - A Clustering Analysis Approach
